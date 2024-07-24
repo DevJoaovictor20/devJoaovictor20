@@ -16,4 +16,6 @@
 
 
 <a href="https://www.linkedin.com/in/joão-victor-silva-barboza-b38254225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+
+
+ ![github-contribution-grid-snake](https://github.com/DevJoaovictor20/cobrinha.yml/assets/147098427/73393a7a-e081-48d7-a968-64708768fe2b)
