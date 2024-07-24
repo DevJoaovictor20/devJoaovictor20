@@ -1,4 +1,4 @@
-  Olá! Eu sou o João Victor
+  Olá, Eu sou o João Victor!
 
 
 - 📚 Atualmente eu sou estudante de Desenvolvimento Full Stack
